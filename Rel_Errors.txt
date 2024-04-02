@@ -1,0 +1,8 @@
+QR decomposition relative error 1: 7.85046e-16
+QR decomposition relative error 2: 8.01803e-13
+QR decomposition relative error 3: 7.42977e-07
+
+
+LU matrix factorization relative error 1: 2.22045e-16
+LU matrix factorization relative error 2: 4.58078e-13
+LU matrix factorization relative error 3: 5.59902e-07
